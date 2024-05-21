@@ -36,9 +36,11 @@ public class PlayerController : MonoBehaviour
     {
         foreach (var cell in path)
         {
-            while (Vector3.Distance(transform.position, cell.transform.position) > 0.001f)
+            while (Vector2.Distance(transform.position, cell.transform.position) > 0.001f)
             {
-                transform.position = Vector3.MoveTowards(transform.position, cell.transform.position, Time.deltaTime);
+                Vector3 targetPosition = Vector2.MoveTowards(transform.position, cell.transform.position, Time.deltaTime);
+                targetPosition.z = transform.position.z;
+                transform.position = targetPosition;
                 yield return null;
             }
         }
