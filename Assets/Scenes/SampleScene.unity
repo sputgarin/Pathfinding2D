@@ -135,6 +135,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5
@@ -385,6 +397,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1260,6 +1284,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9
@@ -1333,6 +1369,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4
@@ -1405,6 +1453,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1567,6 +1627,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1819,6 +1891,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5
@@ -2055,7 +2139,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 4.5, y: 4.5, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2072,6 +2156,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2146,6 +2242,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -2218,6 +2326,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2292,6 +2412,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 8
@@ -2364,6 +2496,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2611,6 +2755,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -2773,6 +2929,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7
@@ -2845,6 +3013,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3008,6 +3188,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6
@@ -3170,6 +3362,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6
@@ -3242,6 +3446,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3672,6 +3888,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5
@@ -3744,6 +3972,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3818,6 +4058,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 6
@@ -3890,6 +4142,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4052,6 +4316,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4393,6 +4669,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -4465,6 +4753,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4628,6 +4928,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1
@@ -4700,6 +5012,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5198,6 +5522,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -5360,6 +5696,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4
@@ -5432,6 +5780,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5773,6 +6133,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 8
@@ -5934,6 +6306,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6453,6 +6837,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7
@@ -6525,6 +6921,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6684,6 +7092,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f39d68b369dd4e8d9497e7176d67161, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gold: {fileID: 739017853}
 --- !u!1001 &1683735823
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6695,6 +7104,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6858,6 +7279,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -7020,6 +7453,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5
@@ -7092,6 +7537,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7166,6 +7623,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2
@@ -7238,6 +7707,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7312,6 +7793,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 8
@@ -7384,6 +7877,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7547,6 +8052,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 5
@@ -7619,6 +8136,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7871,6 +8400,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9
@@ -7943,6 +8484,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8195,6 +8748,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7
@@ -8267,6 +8832,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8430,6 +9007,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: GridCell
       objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
       value: 9
@@ -8502,6 +9091,18 @@ PrefabInstance:
     - target: {fileID: 3184168231710391148, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_Name
       value: GridCell
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4142357951876588996, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8577291709755580162, guid: 634cba82d12fd4f399abdf0beec01e54, type: 3}
       propertyPath: m_LocalPosition.x
