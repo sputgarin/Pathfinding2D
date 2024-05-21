@@ -15,6 +15,20 @@ public class Grid : MonoBehaviour
 
     public GridCell GetCellForPosition(Vector3 position)
     {
+        // for x = 0 < width
+        //   for y = 0 < height
+        //     if position.x is > [...] && x <= [...] && position.y > [...] && y <= [...]
+        //        return that cell
+        
+        // can you not also calculate the index
+        // 1.3 -> 1
+        // 1 -> 1
+        // 0.7 -> 1
+        // 0.4 -> 0
+        // 1.6 -> 2
+        
+        // xIndex positon.x * - + / something
+        
         // example input: (x: 3, y: 4, z: 0)
         // example input: (x: 3, y: 4, z: 5)
         // example input: (x: 4.2, y: 2.3, z: 5)
